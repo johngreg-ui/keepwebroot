@@ -6,7 +6,7 @@ In today's digital world, ensuring your computer's protection is essential. If y
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://quickendesk.hostlink.click" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Quicken</a>
+       <a href="https://webrootdesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started</a>
    </div>
    
 
@@ -136,4 +136,5 @@ Downloading, installing, and activating Webroot SecureAnywhere that you already 
 
 
 Your Webroot SecureAnywhere software will ensure round-the-clock protection from viruses, malware, ransomware, and other digital threats. Get started today by visiting **https://www.webroot.com/safe** and enjoy secure computing with Webroot.
+
 
